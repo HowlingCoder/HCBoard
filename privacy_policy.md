@@ -1,3 +1,7 @@
+---
+title: "Privacy Policy"
+---
+
 # Privacy Policy
 
 Effective date: December 20, 2018
