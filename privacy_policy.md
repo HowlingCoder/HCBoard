@@ -2,8 +2,6 @@
 title: "Privacy Policy"
 ---
 
-# Privacy Policy
-
 Effective date: December 20, 2018
 
 HowlingCoder ("us", "we", or "our") operates the HCBoards Streamlabs App (hereinafter referred to as the "Service").
