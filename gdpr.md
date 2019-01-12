@@ -1,5 +1,5 @@
 ---
-title: "Privacy Policy"
+title: "GDPR"
 ---
 
 # Privacy Policy for HCBoards
